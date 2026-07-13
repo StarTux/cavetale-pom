@@ -66,7 +66,7 @@
       <dependency>
 	<groupId>io.papermc.paper</groupId>
 	<artifactId>paper-api</artifactId>
-	<version>26.1.2.build.72-stable</version>
+	<version>26.2.build.60-beta</version>
       </dependency>
 
       <!-- JUnit Testing -->
